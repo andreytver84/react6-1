@@ -1,0 +1,18 @@
+.SetWatchesForm {
+    display: flex;
+    background: #f0f0f0;
+    padding: 20px;
+    border-radius: 3px;
+    margin: 0 0 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+.SetWatchesForm button {
+    padding: 10px 25px;
+    cursor: pointer;
+}
+.SetWatchesForm button:hover {
+    background: #855353;
+    border-radius: 5px;
+    color: #fff;
+}
